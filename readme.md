@@ -2,7 +2,7 @@
 
 
 Effeckt.css
-===========
+==============
 
 
 **A Performant Transitions and Animations Library** : [http://h5bp.github.io/Effeckt.css](http://h5bp.github.io/Effeckt.css)
